@@ -1,0 +1,1259 @@
+
+#all-content {
+    overflow-x: hidden;
+    width: 1280px;
+    height: 8138px;
+}
+#navrectangle2 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 341px;
+    width: 30px;
+    background: #1809E9;
+}
+.h1{
+font-size: 121pt;
+color: aliceblue;
+-webkit-text-stroke: 1px #000000;
+font-family: "Aeroport-black";
+}
+.section-1{
+height: 815px;
+background-image: url("../img/background\ sec1.png");
+}
+.section-h2 {
+font-family: "Aeroport-light";
+}
+.rectangle {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 537px;
+height: 36px;
+background-color: #00FF38;
+border: 1px solid black;
+border-radius: 18px;
+margin-top: 30px;
+}
+#section-1-d1 {
+padding-top: 20%;
+align-items: center;
+display: flex;
+justify-content: center; 
+flex-direction: column;
+}
+#for-sec1 {
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+margin-top: 285px;
+}
+.text-sec1 {
+font-family: "Aeroport-medium";
+color: #00FF38;
+font-size: 19px;
+display: flex;
+justify-content: space-between;
+align-items:flex-end;
+margin-left: 6.4%;
+margin-right: 6.4%;
+}
+.section-2 {
+height: 341px;
+background-color: #EAEAEA;
+}
+.contentsec2 {
+margin-top: -319px;
+margin-left: 90px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+#navrectangle2 {
+position: relative; /* Фиксированное позиционирование */
+left: 0px; /* Прикрепление к левому краю */
+top: 0; 
+width: 30px;
+height: 341px;
+color: #1809E9;
+}
+.aboutfont {
+font-family: "Aeroport-monospaced";
+margin-top: 20px;
+font-size: 19px;
+line-height: 44px;
+margin-left: -9%;
+color: rgb(61, 61, 61);
+width: 100%;
+padding-bottom: 20px;
+display: flex;
+justify-content: space-between;
+} 
+.navcolumn{
+font-family: "Aeroport-light";
+transform: rotate(90deg);
+}
+.QRbuy {
+margin-top: 18px;
+display: block;
+justify-content: center;
+align-items: center;
+}
+.QR {
+width: 198px;
+height: 198px;
+display: block;
+margin: 0 auto;
+}
+.buy {
+padding-top: 28px;
+font-family: "Aeroport-monospaced";
+text-align: center;
+} 
+.section-3 {
+height: 1703px;
+}
+#background3-union {
+    display: flex;
+    z-index: -1;
+    position: relative;
+    left: -918px;
+}
+#background3 {
+    width: 1250px;
+    height: 1703px;
+    position: relative;
+    left: 0px;
+}
+#details-sec3 {
+    z-index: 1;
+}
+#sec3 {
+display: flex;
+}
+#booy {
+z-index: 1;
+width: 537px;
+height: 407px;
+margin-left: -85px;
+margin-top: 33px;
+}
+#starsec3 {
+position: relative;
+left: 542px;
+top: 321px;
+z-index: 1;
+}
+#R {
+    position: relative;
+    left: 594px;
+    top: -289px;
+    height: 422px;
+    width: 554px;
+}
+#Aa {
+position: relative;
+left: 222px;
+top: -497px;
+width: 505px;
+}
+#HPZIW {
+position: relative;
+left: 571px;
+top: -700px;
+height: 458px;
+width: 541px;  
+}
+#perfectreadability {
+position: relative;
+left: 143px;
+top: -536px;
+width: 543px;  
+}
+.text-sec3 {
+font-family: "Aeroport-light";
+color: #ffffff;
+line-height: 26px;
+}
+#t1sec3 {
+position: relative;
+left: 787px;
+    top: -322px;
+}
+#t2sec3 {
+    position: relative;
+left: 156px;
+top: -461px;
+}
+#t3sec3 {
+    position: relative;
+    left: 787px;
+    top: -274px;
+}
+#t4sec3 {
+position: relative;
+left: 156px;
+top: -454px;
+}
+#t5sec3 {
+    z-index: 101;
+margin-left: 787px;;
+margin-top: -636px;
+}
+#navrectangle3 {
+position: relative;
+top: 0px;
+left: 0px;
+height: 1623px;
+width: 30px;
+background: #FF00F5;
+}
+#section-4 {
+height: 900px;
+background-color: #EAEAEA;;
+margin-top: -70%;
+}
+#navrectangle4 {
+position: relative;
+top: 0px;
+left: 0px;
+height: 896px;
+width: 30px;
+background: #1809E9;
+}
+#sec4 {
+display: flex;
+margin-top: -80px;
+}
+.folders {
+display: flex; 
+justify-content: center; 
+align-items: center;
+flex-direction: column;
+width: 178px;
+height: 199px;
+}
+.text-sec4 {
+font-family: "Aeroport-light";
+font-size: 32px;
+padding-top: 6px;
+}
+
+#light-folder{
+margin-left: 210px;
+margin-top: 50px; 
+}
+#light-folder:hover + #content-folder1 {
+opacity: 1;
+}
+#content-folder1 {
+    height: 424px;
+opacity: 0;
+width: 541px;
+height: 424px;
+transform: translate(-40%, 40%);
+}
+
+
+#content-folder3 {
+opacity: 0;
+width: 541px;
+height: 424px;
+/* margin-left: 80px;
+margin-top:-120px; */
+transform: translate(-80%, 35%);
+}
+#medium-folder:hover + #content-folder3 {
+    opacity: 1;
+}
+
+#content-folder4 {
+    opacity: 0;
+width: 541px;
+height: 339px;
+transform: translate(-25%, 45%);
+}
+#bold-folder:hover + #content-folder4 {
+    opacity: 1;
+}
+
+#content-folder5 {
+opacity: 0;
+width: 541px;
+height: 424px;
+/* margin-left: 80px;
+margin-top:-120px; */
+}
+#content-folder6 {
+    opacity: 0;
+    width: 541px;
+    height: 250px;
+    /* margin-left: 80px;
+    margin-top:-120px; */
+}
+#regular-folder {
+margin-top: 90px;
+margin-left: -370px;
+} 
+#content-folder2 {
+    opacity: 0;
+    width: 541px;
+    height: 339px;
+    transform: translate(-10%, 40%);
+    }
+    #regular-folder:hover + #content-folder2 {
+        opacity: 1;
+    }
+#medium-folder {
+    margin-left: -370px;
+    margin-top: 60px;
+} 
+#bold-folder {
+    margin-left: -1370px;
+    margin-top: 310px;
+} 
+#black-folder {
+    margin-left: -338px;
+    margin-top: 360px;
+} 
+#mono-folder {
+margin-left: 890px;
+margin-top: 430px;
+} 
+
+
+.content-folder {
+background-color: #00FF38;
+border-radius: 18px;
+border: 1px solid black;
+line-height: 150%;
+/* opacity: 0; */
+}
+.arrows-folder {
+width: 56px;
+height: 15px;
+display: flex;
+justify-content: space-between;
+margin: 11px 500px 11px 30px;
+}
+.hr-content-folder {
+width: 541px;
+height: 1px;
+background-color: #000000;
+margin-top: 12px;
+}
+.h1-content-folder {
+font-size: 16pt;
+margin-left: 41px;
+}
+.text2-folder1{
+    font-family: "Aeroport-light-italic";
+    font-size: 16px;
+margin-left: 41px;
+padding-top: 11px;
+}
+.text-folder2 {
+    font-family: "Aeroport-regular";
+    font-size: 16px;
+    margin-left: 41px;
+}
+.text2-folder2 {
+    font-size: 16px;
+margin-left: 41px;
+padding-top: 11px;
+    font-family: "Aeroport-regular-italic";
+}
+.text1-folder3 {
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+        font-family: "Aeroport-medium";
+}
+.text2-folder3 {
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+        font-family: "Aeroport-medium-italic";
+}
+.text1-folder4 {
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+    font-family:"Aeroport-bold";
+}
+.text2-folder4{
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+    font-family:"Aeroport-light-italic";
+}
+.text2-folder5{
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+    font-family:"Aeroport-black-italic";
+}
+.text1-folder5{
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+    font-family:"Aeroport-black";
+}
+.text1-folder6{
+    font-size: 16px;
+    margin-left: 41px;
+    padding-top: 11px;
+    font-family: "Aeroport-monospaced";
+}
+.text-content-folder {
+font-size: 16px;
+margin-left: 41px;
+padding-top: 11px;
+}
+
+.block-1-folders {
+margin-top: 27px;
+}
+.block-2-folders {
+padding-top: 18px;
+}
+#h1-1-light-folder {
+font-family: "Aeroport-light";
+}
+#text-1--folder {
+font-family: "Aeroport-light";
+}
+#h1-2-light-folder {
+font-family: "Aeroport-light-italic";
+}
+#text-2--folder {
+font-family: "Aeroport-light-italic";
+}
+
+#typefaces {
+width: 1012px;
+height: 431px;
+background-color: #ffffff;
+color: #000000;
+border-radius: 18px;
+border: 3px solid black;
+position: relative;
+top: -30px;
+left: 155px;
+}
+#h1-typefaces {
+font-family: "Aeroport-light";
+font-size: 24px;
+text-align: center;
+padding: 13px;
+}
+#hr-typefaces {
+width: 1012px;
+height: 3px;
+background-color: #000000; 
+}
+.gaaaaame {
+font-size: 177px;
+color: #6F6F6F;
+}
+#letters-gaaaaame {
+display: flex;
+align-items: baseline;
+justify-content: center;
+position: relative;
+    top: -12px;
+}
+#g {
+font-family: "Aeroport-light";
+}
+#a-l {
+font-family: "Aeroport-light";
+color: #1809E9;
+}
+#a-r {
+font-family: "Aeroport-regular";
+color: #1809E9;
+}
+#a-m {
+font-family: "Aeroport-medium";
+color: #1809E9;
+}
+#a-bo {
+font-family: "Aeroport-bold";
+color: #1809E9;
+}
+#a-bl {
+font-family: "Aeroport-black";
+color: #1809E9;
+}
+#m {
+font-family: "Aeroport-black";
+}
+#e{
+font-family: "Aeroport-black";
+}
+.signatures {
+display: flex;
+align-items: baseline;
+justify-content: space-between;
+align-items:flex-end;
+padding-left: 182px;
+padding-right: 404px;
+font-size: 10px;
+}
+#Light-typefaces {
+font-family: "Aeroport-light";
+}
+#Regular-typefaces {
+font-family: "Aeroport-regular";
+}
+#Medium-typefaces {
+font-family: "Aeroport-medium";
+}
+#Bold-typefaces {
+font-family: "Aeroport-bold";
+}
+#Black-typefaces {
+font-family: "Aeroport-black";
+}
+#letters-greaaaaat {
+display: flex;
+align-items: baseline;
+justify-content: center;
+position: relative;
+top: -25px;
+}
+.greaaaaat {
+font-size: 149px;
+color: #6F6F6F;
+}
+#signatures-gaaaaame {
+position: relative;
+top: -25px;
+color: #6F6F6F;
+}
+#signatures-greaaaaat {
+color: #6F6F6F;
+position: relative;
+top: -31px;
+left: 279px;
+width: 389px;
+}
+#isgre {
+font-family: "Aeroport-light-italic";
+}
+#a-l-i {
+font-family: "Aeroport-light-italic";
+color: #1809E9;
+}
+#a-i{
+font-family: "Aeroport-regular-italic";
+color: #1809E9;
+}
+#a-m-i {
+font-family: "Aeroport-medium-italic";
+color: #1809E9;
+}
+#a-bo-i {
+font-family: "Aeroport-bold-italic";
+color: #1809E9;
+}
+#a-bl-i {
+font-family: "Aeroport-black-italic";
+color: #1809E9;
+}
+#t {
+font-family: "Aeroport-black-italic";
+}
+#LightItalic-typefaces {
+font-family: "Aeroport-light-italic";
+}
+#Italic-typefaces {
+font-family: "Aeroport-regular-italic";
+}
+#MediumItalic-typefaces {
+font-family: "Aeroport-medium-italic";
+}
+#BoldItalic-typefaces {
+font-family: "Aeroport-black-italic";
+}
+#BlackItalic-typefaces {
+font-family: "Aeroport-black-italic";
+}
+#section-5 {
+height: 1331px;
+background-image: url(../img/background5.png);
+margin-top: -4px;
+}
+#navrectangle5 {
+position: relative;
+top: 0px;
+left: 0px;
+height: 984px;
+width: 30px;
+background: #09DEF9;
+}
+#h1-Glifs {
+font-size: 121pt;
+color: aliceblue;
+font-family: "Aeroport-black";
+}
+#glips {
+margin: -43% 30% 30% 35%;
+display: flex; 
+align-items: center;
+flex-direction: column;
+}
+#cassa {
+font-family: "Aeroport-light";
+font-size: 26px;
+color: #ffffff;
+padding-top: 15px;
+}
+.text-sec1 {
+font-family: "Aeroport-medium";
+font-size: 20px;
+margin-left: 6.4%;
+margin-right: 6.4%;
+}
+#navrectangle6 {
+position: relative;
+top: -36px;
+left: 0px;
+height: 347px;
+width: 30px;
+background: #00FF38;
+}
+
+
+.folders_union{
+    width: 100%;
+    /* margin-top: -100%; */
+    display: flex;
+    justify-content: space-around;
+}
+
+#one-yellow {
+    position:relative;
+    top: -400px;
+    left: 149px;
+    }
+.bold-numbers {
+    font-family: "Aeroport-bold";
+    font-size: 59px;
+}
+#two-pink {
+    position:relative;
+    top: -570px;
+    left: 149px;
+}
+
+#three-yellow {
+    position:relative;
+    top: -330px;
+    left: 149px;
+}
+#fore-blue {
+    position:relative;
+    top: -460px;
+    left: 119px;
+}
+#six-blue {
+    position:relative;
+    top: -380px;
+    left: 170px;
+}
+#seven-pink {
+    position:relative;
+    top: -500px;
+    left: 170px;
+}
+#zero-yellow {
+    position:relative;
+    top: -330px;
+    left: 150px;
+}
+#five-pink {
+    position:relative;
+    top: -630px;
+    left: 190px;
+}
+#nine-blue {
+    position:relative;
+    top: -330px;
+    left: 160px;
+}
+#green-buttoms {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -320px;
+    margin-left: 105px;
+    width: 1122px;
+} 
+#numbers-green-buttoms {
+    font-family: "Aeroport-monospaced";
+    color: #00FF38;
+    font-size: 59px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 1046px;
+    margin-left: 143px;
+    margin-top: -80px;
+} 
+#numbers-typefaces {
+    display: flex;
+    justify-content: space-between;
+    width: 532px;
+    font-family: "Aeroport-monospaced";
+    font-size: 15px;
+    margin-left: 390px;
+    margin-top: 35px;
+}
+#Mono-numbers-typefaces {
+    color: #00FF38;
+}
+#Light-numbers-typefaces {
+    color: #09DEF9;
+}
+#Black-numbers-typefaces {
+    color:#FF00F5;
+}
+#Bold-numbers-typefaces {
+    color: #E4E800;
+}
+#section-6 {
+    height: 1433px;
+}
+#navrectangle7 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 1434px;
+    width: 30px;
+    background: #000000;
+}
+#no-chits {
+    width: 407px;
+    height: 575px;
+    position: relative;
+    top: -1858px;
+    left: 38px;
+}
+#go-eat {
+    width: 407px;
+    height: 575px;
+    position: relative;
+    top: -2437px;
+    left: 452px;
+}
+#h1-no-chits {
+    font-family: "Aeroport-black-italic";
+    font-size: 93px;
+    position: relative;
+    top: -2983px;
+    left: 69px;
+    line-height: 77px;
+}
+#text-no-chits {
+    font-family: "Aeroport-light";
+    color: #F70600;
+    font-size: 9px;
+    position: relative;
+    top: -2956px;
+    left: 59px;
+    line-height: 14px;
+}
+#h2-no {
+    font-family: "Aeroport-black-italic";
+    color: #F70600;
+    font-size: 66px;
+    position: relative;
+    top: -2904px;
+    left: 73px;
+    line-height: 14px;
+}
+#h2-chits {
+    font-family: "Aeroport-black-italic";
+    color: #F70600;
+    font-size: 93px;
+    position: relative;
+    top: -2849px;
+    left: 78px;
+    line-height: 14px;
+}
+#h1-go-eat {
+    font-family: "Aeroport-light";
+    color: #FF00F5;
+    font-size: 63px;
+    position: relative;
+    top: -3124px;
+    left: 469px;
+    line-height: 59px;
+}
+#good-game {
+    width: 407px;
+    height: 575px;
+    position: relative;
+    top: -3357px;
+    left: 867px;
+}
+#h1-good-game {
+        font-family: "Aeroport-black";
+        color: #77FF00;
+        font-size: 101px;
+        position: relative;
+        top: -3738px;
+        left: 928px;
+        line-height: 86px;
+    }
+#text-go-eat {
+    font-family: "Aeroport-light";
+    color: #FF00F5;
+    font-size: 7px;
+    position: relative;
+    top: -3870px;
+    left: 595px;
+    line-height: 11px;
+}
+#text2-go-eat {
+    font-family: "Aeroport-bold";
+    color: #FF00F5;
+    font-size: 9px;
+    position: relative;
+    top: -3956px;
+    left: 487px;
+    line-height: 12px;
+}
+#AFK {
+    font-family: "Aeroport-black";
+    color: #FF00F5;
+    font-size: 184px;
+    position: relative;
+    top: -3887px;
+    left: 481px;
+}
+#ticket {
+    width: 529px;
+    height: 272px;
+    position: relative;
+    top: -3879px;
+    left: 38px;
+}
+#h1-ticket {
+    font-family: "Aeroport-monospaced";
+    font-size: 102px;
+    color: #77FF00;
+    position: relative;
+    top: -4135px;
+    left: 65px;
+}
+.text-ticket {
+font-family: "Aeroport-monospaced";
+    font-size: 13px;
+    color: #77FF00;
+    line-height: 16px;
+}
+#text1-ticket {
+    position: relative;
+    top: -4082px;
+    left: 66px;
+}
+#text2-ticket {
+    position: relative;
+    top: -4147px;
+    left: 295px;
+}
+#not-found {
+    width: 340px;
+    height: 272px;
+    position: relative;
+    top: -4384px;
+    left: 574px;
+}
+#text-not-found {
+    font-family: "Aeroport-monospaced";
+    color: #F70600;
+    font-size: 29px;
+    position: relative;
+    top: -4530px;
+    left: 600px;
+}
+#rec1-sec6 {
+    position: relative;
+    top:-4688px;
+    left: 920px;
+}
+#t-rec-sec6 {
+    color: #09DEF9;
+    font-family: "Aeroport-monospaced";
+    font-size: 39px;
+    position: relative;
+    top: -4743px;
+    left: 1014px;
+}
+#rec2-sec6 {
+    position: relative;
+    top:-4727px;
+    left: 920px;
+}
+#text-rec2-sec6 {
+    color:#FF00F5;
+    font-family: "Aeroport-monospaced";
+    font-size: 39px;
+    position: relative;
+    top: -4783px;
+    left: 1014px;
+}
+#sec3-sec6 {
+    position: relative;
+    top:-4766px;
+    left: 920px;
+}
+#text-rec1-sec6 {
+    color:#1809E9;
+    font-family: "Aeroport-monospaced";
+    font-size: 39px;
+    position: relative;
+    top: -4821px;
+    left: 1014px;
+}
+#rec4-sec6 {
+    position: relative;
+    top:-4806px;
+    left: 920px;
+}
+#text-rec4-sec6 {
+    color:#F70600;
+    font-family: "Aeroport-monospaced";
+    font-size: 39px;
+    position: relative;
+    top: -4861px;
+    left: 1014px;
+}
+#noob {
+    opacity: 0;
+}
+#noob1 {
+    width: 407px;
+    height: 575px;
+    position: relative;
+    top: -1858px;
+    left: 38px;
+}
+.h-noob{
+    color: #09DEF9;
+    font-family: "Aeroport-medium";
+}
+#h1-noob {
+    font-size: 79px;
+    position: relative;
+    top: -5334px;
+    left: 75px;
+}
+#h2-noob {
+    font-size: 178px;
+    position: relative;
+    top: -5352px;
+    left: 67px;
+}
+#h3-noob {
+    font-size: 96px;
+    position: relative;
+    top: -5384px;
+    left: 74px;
+}
+#noob1 {
+ position: relative;
+ top: -4840px;
+ left: 37px;
+}
+#text-noob {
+    font-family: "Aeroport-light-italic";
+    color: #09DEF9;
+    font-size: 10px;
+    position: relative;
+    top: -5324px;
+    left: 67px;
+    line-height: 14px;
+}
+#rage-quit {
+    width: 407px;
+    height: 575px;
+    position: relative;
+    top: -5869px;
+    left: 452px;
+}
+#h1-rage-quit {
+    font-family: "Aeroport-black";
+    color: #000000;
+    font-size: 124px;
+    position: relative;
+    top: -6303px;
+    left: 488px;
+}
+#h2-rage-quit {
+    font-family: "Aeroport-black";
+    color: #000000;
+    font-size: 135px;
+    position: relative;
+    top: -6334px;
+    left: 492px;
+}
+#tilt {
+    width: 407px;
+    height: 575px;
+    position: relative;
+    top: -6706px;
+    left: 867px;
+}
+#h3-tilt {
+    font-family: "Aeroport-regular";
+    color: #1809E9;
+    font-size: 65px;
+    position: relative;
+    top: -7096px;
+    left: 899px;
+}
+#text-tilt {
+    font-family: "Aeroport-light";
+    position: relative;
+    top: -7063px;
+    left: 885px;
+    font-size: 11px;
+    color: #1809E9;
+    line-height: 14px;
+}
+#section8 {
+    height: 1694px;
+}
+#back-sec8-union{
+display: flex;
+}
+#background8 {
+margin-top: 19px;
+width:1697px; 
+height: 1429px;
+transform: rotate(270deg);
+}
+#img-navrectangle8 {
+    position: relative;
+    top: 1px;
+    left: -1px;
+height: 1671px;
+width: 30.5px;
+}
+#interface-sec8 {
+    width: 1127px;
+    height: 1037px;
+   background-color: #000000;
+   border: 3px solid rgb(255, 255, 255);
+   border-radius: 28px;
+   display: flex;
+   position: relative;
+   top: -1124px;
+left: 88px;
+}
+#h1-laguages {
+    position: relative;
+    margin-top: -2527px;
+    margin-left: 350px;
+}
+#search-sec8{
+width: 1011px;
+    height: 139px;
+   background-color: #EAEAEA;
+   border: 3px solid #ABABAB;
+   border-radius: 13px;
+   position: relative;
+   top: 255px;
+   left: 146px;
+}
+#text-search {
+    font-family: "Aeroport-black";
+    font-size: 37px;
+    color: #000000;
+    position: relative;
+    left: 205px;
+    top: 139px;
+    line-height: 43px;
+}
+#cursor {
+    width: 14px;
+    height: 30px;
+    position: relative;
+    left: 713px;
+    top: 106px;
+}
+#text1-laguages {
+    font-family: "Aeroport-bold";
+    font-size: 26px;
+    color: #EAEAEA;
+    position: relative;
+    left: 210px;
+    top: 196px;
+}
+#text2-laguages {
+    font-family: "Aeroport-medium";
+    font-size: 18px;
+    color: #EAEAEA;
+    position: relative;
+    left: 210px;
+    top: 241px;
+}
+#text3-laguages {
+    font-family: "Aeroport-light";
+    font-size: 16px;
+    color: #EAEAEA;
+    position: relative;
+    left: 210px;
+    top: 286px;
+}
+#text4-laguages {
+    font-family: "Aeroport-monospaced";
+    font-size: 16px;
+    color: #EAEAEA;
+    position: relative;
+    left: 159px;
+    top: 339px;
+    line-height: 24px;
+}
+#circles {
+    width: 12px;
+    color: #EAEAEA;
+    height: 182px;
+    position: relative;
+    top: -50px;
+    left: 160px;
+}
+#hatshot {
+    width: 1391px;
+    height: 887px;
+    position: relative;
+    top: -80px; 
+}
+#fourty {
+    font-family: "Aeroport-black";
+    font-size: 158px;
+    color: #00FF38;
+    position: relative;
+    top: -1135px;
+    left: 933px;
+}
+#lang {
+    font-family: "Aeroport-black";
+    font-size: 51px;
+    color: #00FF38;
+    position: relative;
+    top: -1155px;
+    left: 933px;
+}
+#HAT {
+    font-family: "Aeroport-black";
+    font-size: 283px;
+    color: #ffffff;
+    transform: rotate(7.48deg);
+    position: relative;
+    top: -902px;
+    left: 685px;
+    text-shadow: -6.55px 18.73px 4.49px rgba(0, 0, 0, 0.3);
+}
+#SHOT {
+    font-family: "Aeroport-black";
+    font-size: 283px;
+    color: #ffffff;
+    transform: rotate(-14.2deg);
+    position: relative;
+    top: -1033px;
+    left: 77px;
+    text-shadow: -6.55px 18.73px 4.49px rgba(0, 0, 0, 0.3);
+}
+#navcolumn {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 863px;
+    left: -3px;
+    transform: rotate(-90deg);
+    color: #EAEAEA;
+    z-index: 101;
+    transition: top 1s linear;
+}
+#navcolumn3 {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 961px;
+    transform: rotate(-90deg);
+    color: #EAEAEA;
+    z-index: 101;
+    transition: top 1s linear;
+}
+#navcolumn4 {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 904px;
+    transform: rotate(-90deg);
+    color: #EAEAEA;
+    z-index: 101;
+    transition: top 1s linear;
+}
+.dop-rec{
+    opacity: 0;
+}
+#navcolumn5 {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 411px;
+    transform: rotate(-90deg);
+    color: #000000;
+    z-index: 101;
+    transition: top 1s linear;
+}
+#navcolumn6 {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 604px;
+    transform: rotate(-90deg);
+    color: #ffffff;
+    z-index: 101;
+    transition: top 1s linear;
+}
+#navcolumn7 {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 724px;
+    bottom: 1500px;
+    transform: rotate(-90deg);
+    color: #ffffff;
+    z-index: 101;
+    transition: top 1s linear;
+}
+#navcolumn8 {
+    font-family: "Aeroport-light";
+    position: sticky;
+    top: 224px;
+    left: -20px;
+    transform: rotate(-90deg);
+    color: #ffffff;
+    z-index: 101;
+    transition: top 1s linear;
+}
+#navrectangle8 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 1671px;
+    width: 30px;
+    background: #1809E9;
+}
+#footer {
+    color:#585858;
+margin-left: 100px;
+    margin-top: -901px;
+    width: 1200PX;
+    font-family: "Aeroport-monospaced";
+    display: flex;
+    z-index: 1;
+    flex-direction: row;
+    justify-content: space-between;
+}
