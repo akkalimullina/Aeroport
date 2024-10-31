@@ -1,17 +1,12 @@
-body{
-    width: 100%;
-    overflow-x: hidden;
-
-}
 
 #all-content {
     margin: 0 auto;
     width: 1280px;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
 }
 .navrectangle2 {
-    height: 340px;
+    height: 341px;
     width: 30px;
     background: #1809E9;
 }
@@ -19,17 +14,9 @@ body{
     font-family: "Aeroport-light";
     transform: rotate(-90deg);
     color: #EAEAEA;
-    height: 30px;
     white-space: nowrap;
     top: 500px;
-    padding: 0 10px;
-    line-height: 30px;
-    text-align: center;
-    z-index: 101; /* Помогает держать элемент выше других, если нужно */
-    position: sticky;
-    background: #1809E9;
-    transition: top 1s linear;
-    /* transform: rotate(90deg); */
+    padding: 83px 10px;
 }
 .h1{
 font-size: 121pt;
@@ -135,7 +122,7 @@ height: 1703px;
     display: flex;
     z-index: -1;
     position: relative;
-    left: -931px;
+    left: -1085px;
 }
 #background3 {
     width: 1250px;
@@ -185,8 +172,7 @@ width: 541px;
 #perfectreadability {
 position: relative;
 left: 143px;
-top: -2077px;
-top: -1415px;
+top: -331px;
 width: 543px;  
 }
 .text-sec3 {
@@ -216,7 +202,8 @@ top: -454px;
 }
 #t5sec3 {
 margin-left: 800px;
-margin-top: 260px;
+margin-top: -631px;
+white-space: nowrap!important;
 }
 #navrectangle3 {
 position: relative;
@@ -273,7 +260,6 @@ transform: translate(-40%, 40%);
 
 #medium-folder:hover + #content-folder3 {
     opacity: 1;
-    display: block;
 }
 #content-folder3 {
 opacity: 0;
@@ -318,7 +304,6 @@ cursor: pointer;
 }
 #mono-folder:hover + #content-folder6 {
     opacity: 1;
-    display: block;
 }
 
 #regular-folder {
@@ -349,7 +334,7 @@ margin-left: -370px;
     margin-top: 360px;
 } 
 #mono-folder {
-margin-left: -300px;
+margin-left: -425px;
 margin-top: 330px;
 } 
 
@@ -362,7 +347,6 @@ margin-top: 330px;
     opacity: 1;
     cursor: pointer;
 }
-
 
 .content-folder {
 background-color: #00FF38;
@@ -913,9 +897,9 @@ font-family: "Aeroport-monospaced";
     top: -4861px;
     left: 1014px;
 }
-#noob {
+ #noob {
     opacity: 0;
-}
+} 
 #noob1 {
     width: 407px;
     height: 575px;
@@ -1007,7 +991,7 @@ font-family: "Aeroport-monospaced";
     line-height: 14px;
 }
 #section8 {
-height: 1294px;
+height: 1868px;
 }
 #back-sec8-union{
 display: flex;
@@ -1145,35 +1129,33 @@ width: 1011px;
     font-family: "Aeroport-black";
     font-size: 283px;
     color: #ffffff;
-    transform: rotate(-14.2deg);
+    transform: rotate(-12.2deg);
     position: relative;
-    top: -1000px;
+    top: -1030px;
     left: 77px;
     text-shadow: -6.55px 18.73px 4.49px rgba(0, 0, 0, 0.3);
 }
-/* #navcolumn {
+.navcolumn5 {
     font-family: "Aeroport-light";
-    position: sticky;
-    top: 863px;
-    left: -3px;
     transform: rotate(-90deg);
-    color: #EAEAEA;
-    z-index: 101;
-    transition: top 1s linear;
-} */
-#navcolumn3 {
+    color: #000000;
+    padding: 54px 10px;
+} 
+.navcolumn3 {
     font-family: "Aeroport-light";
     position: sticky;
     top: 961px;
+    padding: 120px 10px;
     transform: rotate(-90deg);
     color: #EAEAEA;
     z-index: 101;
     transition: top 1s linear;
 }
-#navcolumn4 {
+.navcolumn4 {
     font-family: "Aeroport-light";
     position: sticky;
     top: 904px;
+    padding: 105px 10px;
     transform: rotate(-90deg);
     color: #EAEAEA;
     z-index: 101;
@@ -1182,7 +1164,7 @@ width: 1011px;
 .dop-rec{
     opacity: 0;
 }
-#navcolumn5 {
+#5 {
     font-family: "Aeroport-light";
     position: sticky;
     top: 411px;
@@ -1191,34 +1173,26 @@ width: 1011px;
     z-index: 101;
     transition: top 1s linear;
 }
-#navcolumn6 {
+.navcolumn6 {
     font-family: "Aeroport-light";
-    position: sticky;
-    top: 604px;
     transform: rotate(-90deg);
-    color: #ffffff;
-    z-index: 101;
-    transition: top 1s linear;
+    color: #000000;
+    padding: 57px 10px;
 }
-#navcolumn7 {
+.navcolumn7 {
     font-family: "Aeroport-light";
-    position: sticky;
-    top: 724px;
-    /* bottom: 1500px; */
+    padding: 72px 10px;
     transform: rotate(-90deg);
     color: #ffffff;
-    z-index: 101;
-    transition: top 1s linear;
 }
-#navcolumn8 {
+.navcolumn8 {
     font-family: "Aeroport-light";
-    position: sticky;
-    top: 224px;
-    left: -20px;
     transform: rotate(-90deg);
+    position: relative;
+    top: 0px;
+    left: 0px;
     color: #ffffff;
     z-index: 101;
-    transition: top 1s linear;
 }
 #navrectangle8 {
     position: relative;
@@ -1227,4 +1201,17 @@ width: 1011px;
     height: 1671px;
     width: 30px;
     background: #1809E9;
+}
+#footer {
+    position: relative;
+    top: -40px;
+    left: 43px;
+    font-family: "Aeroport-light";
+    color: #ffffff;
+font-size: 20px;
+width: 1187px;
+height: 0px;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
 }
